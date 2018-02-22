@@ -1,7 +1,7 @@
 Public fileTest {
 
   public static void main String(args []){
-    boolean pass = false;
+    boolean pass = true;
     if (pass) {
     System.out.println("Test completed!!!");
     System.out.println("Hooray!");

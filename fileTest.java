@@ -4,7 +4,6 @@ Public fileTest {
     boolean pass = true;
     if (pass) {
     System.out.println("Test completed!!!");
-    System.out.println("Hooray!");
     }
     else {
       System.out.println("Test failed!");

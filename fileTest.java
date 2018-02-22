@@ -7,6 +7,4 @@ Public fileTest {
     else
       fail();
     }
-
-
-    }
+}

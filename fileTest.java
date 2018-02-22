@@ -6,6 +6,7 @@ Public fileTest {
     System.out.println("Test completed!");
     }
     else {
+      System.out.println("Test failed!");
       fail();
     }
 }

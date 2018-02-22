@@ -5,7 +5,7 @@ Public fileTest {
     if (pass) {
     System.out.println("Hello");
     }
-    else
+    else {
       fail();
     }
 }

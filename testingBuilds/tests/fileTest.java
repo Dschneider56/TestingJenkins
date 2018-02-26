@@ -7,5 +7,6 @@ public class fileTest {
   public void getName() {
     file coolName = new file("coolName");
     assertEquals("coolName", coolName.getName());
+    
   }
 }

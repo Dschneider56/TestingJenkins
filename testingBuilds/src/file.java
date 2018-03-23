@@ -9,5 +9,4 @@ public class file {
   public String getName() {
     return name;
   }
-
 }

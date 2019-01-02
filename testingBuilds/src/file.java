@@ -1,5 +1,4 @@
 public class file {
-
   private String name;
 
   public file(String name) {

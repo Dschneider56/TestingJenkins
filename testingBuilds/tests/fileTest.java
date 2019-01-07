@@ -8,6 +8,5 @@ public class fileTest {
     file coolName = new file("coolName");
     assertEquals("coolName", coolName.getName());
     
-    
   }
 }
